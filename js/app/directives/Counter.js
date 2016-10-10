@@ -22,7 +22,7 @@ function Counter() {
 			});
 		}
 	}
-}
+} 
 
 angular
 	.module('app')
